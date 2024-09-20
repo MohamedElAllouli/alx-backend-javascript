@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.0",
-    "mocha": "^10.7.3"
+    "express": "^4.21.0"
   }
 }
